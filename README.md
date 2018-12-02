@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # AoC2018
+=======
+###AoC2018
+>>>>>>> 9035046d6ada0230b8331b210101ebf11bbd177d
 
 This is my solutions for [Advent of Code](https://adventofcode.com/), 2018. I would suggest completing the puzzles yourself before looking at the code here, otherwise you'll spoil it for yourself!
 
